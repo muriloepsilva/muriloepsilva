@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murilo</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
+<h5>
+I'm 18 years old, I did my high school with a computer technician and I'm currently studying information systems college and always looking to improve myself. I've been working in the area since February last year as a trainee at TTMS Technologies</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
